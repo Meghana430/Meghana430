@@ -1,71 +1,44 @@
-### Hi there I am Meghana S Kanthadai👋
+# Meghana S Kanthadai
 
-
-📍 **Location:** San Francisco, CA  
-📞 **Contact:** (628) 758-8564  
-✉️ **Email:** mskanthadai@ucdavis.edu  
-🔗 **LinkedIn:** [Insert your LinkedIn profile URL]  
-🔗 **GitHub:** [Insert your GitHub profile URL]
+📍 **San Francisco, CA**  
+📞 **(628) 758-8564**  
+✉️ **mskanthadai@ucdavis.edu**  
+🔗 **[LinkedIn](#)**  
+🔗 **[GitHub](#)**  
 
 ## 👩‍💻 About Me
 
-With a Master's in Business Analytics and extensive experience in Data Pipeline development, I am passionate about crafting innovative solutions and unraveling the complexities of data. I'm a US citizen based in San Francisco, specializing in web scraping, A/B testing, and data storytelling, among others. 
+I am a Master's student in Business Analytics at UC Davis, focusing on data pipeline development and crafting innovative data-driven solutions. 
 
-🔭 **I’m currently working on:** Refining targeted marketing strategies for AI-as-a-Service applications and leading projects as part of my MSBA program at UC Davis.
-
-🌱 **I’m currently learning:** Advanced techniques in machine learning and big data technologies like Apache Kafka and Apache Spark.
-
-👯 **I’m looking to collaborate on:** Projects involving advanced data analytics, machine learning models, and growth marketing solutions.
-
-🤔 **I’m looking for help with:** Exploring new technologies in the field of big data and analytics.
-
-💬 **Ask me about:** Anything related to Python, Java, SQL, data wrangling, and data visualization.
-
-📫 **How to reach me:** Best reached via email at mskanthadai@ucdavis.edu or connect with me on LinkedIn.
-
-😄 **Pronouns:** She/Her
-
-⚡ **Fun fact:** I enjoy decoding data as much as I enjoy a good mystery novel.
+🔭 **Currently working on:** Enhancing marketing strategies and leading projects with AI-as-a-Service applications.  
+🌱 **Currently learning:** Advanced machine learning and big data technologies.  
+👯 **Looking to collaborate on:** Data analytics and machine learning projects.  
+💬 **Ask me about:** Python, Java, SQL, data wrangling, and data visualization.  
+📫 **How to reach me:** Email me at mskanthadai@ucdavis.edu or connect on LinkedIn.  
+😄 **Pronouns:** She/Her  
+⚡ **Fun fact:** I enjoy solving complex data problems and reading mystery novels.  
 
 ## 🎓 Education
 
-- **Master of Science in Business Analytics**  
-  University of California, Davis  
-  Expected June 2024
+- **M.Sc. in Business Analytics, UC Davis** _(Expected Jun 2024)_  
+- **B.Eng. in Electronics & Communication, Anna University** _(Apr 2020)_  
 
-- **Bachelor of Engineering in Electronics & Communication Engineering**  
-  College of Engineering Guindy, Anna University  
-  April 2020
+## 💼 Experience Highlights
 
-## 💼 Professional Experience
+- **Data Scientist & Project Manager:** Led multicultural teams and implemented systems to boost sales and customer engagement.
+- **Graduate Student Analyst:** Enhanced student engagement and educational workshop efficacy through targeted data analysis.
+- **Software Engineer:** Advanced data management and cybersecurity solutions, improved system performance and customer experience.
 
-### Standard Insights (Practicum Project), San Francisco, CA
-**Data Scientist & Project Manager**  
-September 2023 – June 2024  
-- Led a multicultural team in refining marketing strategies using advanced analytics.
-- Implemented a collaborative filtering-based recommendation system projected to significantly boost sales and engagement.
+## 🚀 Key Projects
 
-### University of California, Davis (Part-Time Jobs Dashboard 1 & 2), San Francisco, CA
-**Graduate Student Analyst**  
-September 2023 – June 2024  
-- Guided market analysis and student engagement initiatives.
-- Managed educational workshops, enhancing learning outcomes and student engagement.
-
-### Securin, Inc., Chennai, India
-**Software Engineer**  
-May 2021 – May 2023  
-- Developed and managed data pipelines ensuring high uptime and performance.
-- Played a pivotal role in cybersecurity and data management for a startup.
-
-## 🚀 Projects
-
-- **Financial Stock Sentiment Algorithm:** Utilized sentiment analysis on Reddit conversations to analyze eBay stock sentiment.
-- **Enhancing Credit Risk Analysis for Lending Club:** Applied machine learning to forecast loan default probabilities.
-- **Analysis of Indian School Educational Infrastructure (2013-2016):** Conducted a comprehensive analysis using advanced SQL queries.
+- **Financial Stock Sentiment Algorithm:** Analyzed stock sentiment using sentiment analysis.
+- **Enhancing Credit Risk Analysis for Lending Club:** Built models to predict loan default probabilities.
+- **Indian School Educational Infrastructure Analysis:** Performed in-depth data analysis with advanced SQL.
 
 ## 📜 Certifications
 
-- Tableau Desktop Specialist
-- AWS Cloud Practitioner
-- Google Data Analytics Specialization
+- Tableau Desktop Specialist  
+- AWS Cloud Practitioner  
+- Google Data Analytics Specialization  
 - Lean Six Sigma Green Belt
+
