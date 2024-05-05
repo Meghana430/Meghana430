@@ -3,7 +3,7 @@
 📍 **San Francisco, CA**  
 📞 **(628) 758-8564**  
 ✉️ **mskanthadai@ucdavis.edu**  
-🔗 **[LinkedIn](#)**  
+🔗 **[https://www.linkedin.com/in/meghana-s-kanthadai-70abba18a/](#)**  
 🔗 **[GitHub](#)**  
 
 ## 👩‍💻 About Me
