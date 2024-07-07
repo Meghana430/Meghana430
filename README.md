@@ -15,7 +15,7 @@ I am a Master's student in Business Analytics at UC Davis, focusing on data pipe
 💬 **Ask me about:** Python, Java, SQL, data wrangling, and data visualization.  
 📫 **How to reach me:** Email me at mskanthadai@ucdavis.edu or connect on LinkedIn.  
 😄 **Pronouns:** She/Her  
-⚡ **Fun fact:** I enjoy solving complex data problems and reading mystery novels.  
+⚡ **Fun fact:** I enjoy solving complex data problems and reading mystery novels
 
 ## 🎓 Education
 
