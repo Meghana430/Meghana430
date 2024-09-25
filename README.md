@@ -9,7 +9,7 @@
 
 I am a Master's student in Business Analytics at UC Davis, focusing on data pipeline development and crafting innovative data-driven solutions. 
 
-🔭 **Currently working on:** Enhancing marketing strategies and leading projects with AI-as-a-Service applications.  
+🔭 **Currently working on:** Enhancing marketing strategies and leading projects with AI-as-a-Service applications
 🌱 **Currently learning:** Advanced machine learning and big data technologies.  
 👯 **Looking to collaborate on:** Data analytics and machine learning projects.  
 💬 **Ask me about:** Python, Java, SQL, data wrangling, and data visualization.  
